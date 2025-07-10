@@ -90,26 +90,4 @@ Open any notebook and run all cells to reproduce the experiments.
 
 ---
 
-## 📖 Citation
-
-If you use this code, please cite:
-
-```bibtex
-@inproceedings{khaled2025balancing,
-  title    = {Balancing Efficiency and Accuracy: A Comparative Analysis of LSTM and RoBERTa for Explainable Hate Speech Detection on HateXplain},
-  author   = {Khaled, Amr and Mounir, Ahmed and Medhat, John and Hassan, Wael},
-  booktitle= {IEEE International Conference on Intelligent Methods, Systems, and Applications (IMSA)},
-  year     = {2025},
-  month    = {August},
-}
-```
-
----
-
-## 📝 License
-
-This project is released under the MIT License. See [LICENSE](LICENSE) for details.  
-
----
-
 Thank you for exploring our work! Contributions, issues, and feature requests are welcome.
